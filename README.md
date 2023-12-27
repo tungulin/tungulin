@@ -3,7 +3,7 @@
 
 <h1 align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&height=70&center=true&vCenter=true&size=30&pause=1000&color=0082CF&lines=Hi+There!+%F0%9F%91%8B+I'm+Andrey+Tungulin" />
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&height=70&center=true&vCenter=true&size=30&pause=1000&color=0082CF&lines=Hi+There!+%F0%9F%91%8B+I'm+Andrey+Tungulin" />
 </h1>
 
 <h3 align="center">A passionate software developer</h3>
